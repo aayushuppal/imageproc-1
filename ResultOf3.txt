@@ -1,0 +1,2 @@
+Displacement vector of Green plate: 7 0
+Displacement vector of Red plate: 11 1
